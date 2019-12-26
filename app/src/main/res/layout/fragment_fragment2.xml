@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#161F46"
+    tools:context=".Fragment2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="12dp"
+        android:textSize="9pt"
+        android:text="  Muhammad Dwi Arniyanto"
+        android:textColor="#FFFFFF"/>
+
+    <ImageView
+        android:layout_width="47dp"
+        android:layout_height="47dp"
+        android:src="@drawable/tugas" />
+
+</FrameLayout>

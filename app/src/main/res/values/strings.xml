@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">profil</string>
+    <string name="posting">Posting</string>
+    <string name="pengikut">Followers</string>
+    <string name="mengikuti">Follow</string>
+    <string name="nim">NIM</string>
+    <string name="jurusan">Major</string>
+    <string name="no">Number</string>
+    <string name="email">E-mail</string>
+    <string name="web">Website</string>
+</resources>
